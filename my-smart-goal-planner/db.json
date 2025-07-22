@@ -1,0 +1,265 @@
+{
+  "goals": [
+    {
+      "id": "2",
+      "name": "Mum's B-day",
+      "targetAmount": 10000,
+      "savedAmount": 7511,
+      "category": "Family",
+      "deadline": "2026-01-30",
+      "createdAt": "2023-05-01"
+    },
+    {
+      "id": "1",
+      "name": "Build Home",
+      "targetAmount": 100000,
+      "savedAmount": 75790,
+      "category": "Family",
+      "deadline": "2026-01-30",
+      "createdAt": "2023-05-01"
+    },
+    {
+      "id": "3",
+      "name": "Toto's B-day",
+      "targetAmount": 1500,
+      "savedAmount": 1500,
+      "category": "Family",
+      "deadline": "2025-07-20",
+      "createdAt": "2024-03-10"
+    },
+    {
+      "id": "4",
+      "name": "Sara's Grad",
+      "targetAmount": 50000,
+      "savedAmount": 12000,
+      "category": "Family",
+      "deadline": "2025-12-31",
+      "createdAt": "2024-02-01"
+    },
+    {
+      "id": "5",
+      "name": "Trip to Dubai",
+      "targetAmount": 800,
+      "savedAmount": 600,
+      "category": "Leisure",
+      "deadline": "2025-09-15",
+      "createdAt": "2024-06-01"
+    },
+    {
+      "id": "6",
+      "name": "Hiking",
+      "targetAmount": 20000,
+      "savedAmount": 5000,
+      "category": "Leisure",
+      "deadline": "2025-07-29",
+      "createdAt": "2024-04-20"
+    },
+    {
+      "id": "7",
+      "name": "Mt.Kenya Climb",
+      "targetAmount": 1000,
+      "savedAmount": 220,
+      "category": "Leisure",
+      "deadline": "2025-08-10",
+      "createdAt": "2024-07-01"
+    },
+    {
+      "id": "8",
+      "name": "Camping Naivasha",
+      "targetAmount": 1200,
+      "savedAmount": 0,
+      "category": "Leisure",
+      "deadline": "2025-01-31",
+      "createdAt": "2024-07-10"
+    },
+    {
+      "id": "9",
+      "name": "Health Fund",
+      "targetAmount": 100000,
+      "savedAmount": 15000,
+      "category": "Necessities",
+      "deadline": "2026-01-01",
+      "createdAt": "2023-01-01"
+    },
+    {
+      "id": "10",
+      "name": "Education Kitty",
+      "targetAmount": 7500,
+      "savedAmount": 1000,
+      "category": "Necessities",
+      "deadline": "2025-08-31",
+      "createdAt": "2024-05-15"
+    },
+    {
+      "id": "10",
+      "name": "Bills",
+      "targetAmount": 7500,
+      "savedAmount": 1000,
+      "category": "Necessities",
+      "deadline": "2025-03-31",
+      "createdAt": "2024-05-15"
+    },
+    {
+      "id": "10",
+      "name": "Car Insurance",
+      "targetAmount": 7500,
+      "savedAmount": 1000,
+      "category": "Necessities",
+      "deadline": "2025-07-31",
+      "createdAt": "2024-05-15"
+    },
+    {
+      "id": "f423",
+      "name": "Living Cost",
+      "targetAmount": 1000000,
+      "category": "Family",
+      "deadline": "2025-07-31",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "bce6",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-24",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "e8e4",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-24",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "76ed",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-24",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "027e",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-24",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "36ec",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-24",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "86b2",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-24",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "e3fc",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-24",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "a348",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-24",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "d5e7",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-25",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "8501",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-25",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "5473",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-25",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "ee41",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-25",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "1c58",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-25",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "38e1",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-25",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "58e9",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "68900",
+      "deadline": "2025-07-25",
+      "savedAmount": 0,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "8e61",
+      "name": "Savings",
+      "targetAmount": 154732,
+      "category": "Family",
+      "deadline": "2025-07-25",
+      "savedAmount": 68900,
+      "createdAt": "2025-07-22"
+    }
+  ]
+}
